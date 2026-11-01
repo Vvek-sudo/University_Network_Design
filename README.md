@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 niversity Campus Network Design
 
 An enterprise-grade campus network architecture simulated in **Cisco Packet Tracer**, spanning two campuses located 20 miles apart. This repository contains the complete network topology, configuration scripts, and documentation fulfilling all coursework requirements.
@@ -40,3 +41,7 @@ albion-campus-network/
 ├── configs/                   # Device CLI running configurations (.txt)
 └── docs/                      # Detailed technical report and evaluation document
 
+=======
+# University_Network_Design
+This project plans, simulates, and evaluates an enterprise campus network architecture for the university, spanning two campuses 20 miles apart. It supports four faculties (Health/Sciences, Business, Engineering/Computing, Art/Design), admin departments, student labs, and centralized IT services with routing, VLANs, and security.
+>>>>>>> 4cc1f8a8494545a28c0aef376199a974d79496ed
